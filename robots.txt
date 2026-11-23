@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://abdo15542.github.io/wamdalibya/sitemap.xml
+Disallow: /

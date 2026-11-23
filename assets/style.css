@@ -207,3 +207,9 @@ a:hover { color: var(--gold); }
   .hero h1 { font-size: 34px; }
   .article-page h1 { font-size: 24px; }
 }
+
+/* قسم تحميل التطبيق (الصفحة الرئيسية) */
+.app-download { background: var(--navy); color: #fff; text-align: center; padding: 28px 16px; margin-top: 24px; border-radius: var(--radius); }
+.app-download h2 { color: var(--gold-soft); margin: 0 0 8px; font-size: 24px; }
+.app-download p { margin: 0 auto 14px; max-width: 560px; color: #e8eef7; }
+.app-download .app-iphone-note { font-size: 14px; color: #b9c6d8; margin-bottom: 0; }
