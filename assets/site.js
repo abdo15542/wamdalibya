@@ -2,6 +2,23 @@
 (function () {
   "use strict";
 
+  // صور المقالات: لو صورة لسه ما اترفعتش على السيرفر (404) بدّلها بغلاف الموقع
+  // بدل ما تظهر كمربع فاضي وعلامة صورة مكسورة. يشتغل على كل الصفحات.
+  var FALLBACK_IMG = "https://abdo15542.github.io/wamdalibya/assets/cover.jpg";
+  function fixImg(img) {
+    if (!img || img.getAttribute("data-fb-done")) return;
+    if (img.src.indexOf("/images/") === -1) return;
+    img.setAttribute("data-fb-done", "1");
+    img.src = FALLBACK_IMG;
+  }
+  document.addEventListener("error", function (e) {
+    var t = e.target;
+    if (t && t.tagName === "IMG") fixImg(t);
+  }, true);
+  Array.prototype.forEach.call(document.images, function (img) {
+    if (img.complete && img.naturalWidth === 0) fixImg(img);
+  });
+
   // قائمة الجوال
   var toggle = document.getElementById("menuToggle");
   var nav = document.getElementById("mainNav");
