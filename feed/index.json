@@ -1,7 +1,107 @@
 {
- "count": 1214,
- "generated": "2026-11-24T18:08:59.346344Z",
+ "count": 1224,
+ "generated": "2026-11-24T18:46:47.530206Z",
  "articles": [
+  {
+   "id": 1224,
+   "slug": "article-1224",
+   "title": "🤖 «إمبو» تجمع 110 ملايين دولار لبناء «عقل روبوت» يتعلم الفيزياء من الفيديو!",
+   "date": "2026-11-24",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1223,
+   "slug": "article-1223",
+   "title": "🎮 «نيوه 3» تصل إلى «إكس بوكس» و«سويتش 2» أخيراً! نسخة كاملة بكل الإضافات في يناير 2027",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1222,
+   "slug": "article-1222",
+   "title": "💻 «إيه إم دي» توسّع بطاقات «إنستنكت إم آي 400».. بطاقة جديدة وسرعة تتفوق على «إنفيديا» في اختبارات الذكاء الاصطناعي!",
+   "date": "2026-11-24",
+   "category": "computing",
+   "category_name": "الحوسبة والبرمجة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1221,
+   "slug": "article-1221",
+   "title": "🚀 «سبيس إكس» تطلق مهمة عسكرية سرية جديدة.. والمعزّز «بي 1081» يحلّق للمرة التاسعة والعشرين!",
+   "date": "2026-11-24",
+   "category": "space",
+   "category_name": "الفضاء",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1220,
+   "slug": "article-1220",
+   "title": "🔋 «موتورولا إيدج 70 نيو»: السعر أخيراً والبيع في 1 ديسمبر.. المواصفات الكاملة ومعالج «سنابدراغون 7 إس جين 3»!",
+   "date": "2026-11-24",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1219,
+   "slug": "article-1219",
+   "title": "📸 «واتساب» يختبر التصوير بالكاميرتين معاً.. وجهك والحدث في إطار واحد!",
+   "date": "2026-11-24",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1218,
+   "slug": "article-1218",
+   "title": "📱 شاشة واحدة تجمع المنافسين.. «سامسونغ» تورد شاشات «أوليد» الجديدة كلياً لهواتف «بيكسل 11» و«آيفون 18 برو» و«آيفون فولد»!",
+   "date": "2026-11-24",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1217,
+   "slug": "article-1217",
+   "title": "🚨 «رادوير» تكشف اختراقاً سرق مفاتيح سحابية لعملائها.. وواجهة داخلية بلا كلمة مرور كانت الباب!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1216,
+   "slug": "article-1216",
+   "title": "🔐 «ماترز.إيه آي» تجمع 12 مليون دولار.. ذكاء اصطناعي يحرس بيانات الشركات من التسرب!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1215,
+   "slug": "article-1215",
+   "title": "💰 «زايفر» تجمع 53 مليون دولار.. وكلاء ذكاء اصطناعي يديرون بيانات الشركات الكبرى بدل المهندسين!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1214,
    "slug": "article-1214",
