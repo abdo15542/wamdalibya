@@ -1,7 +1,16 @@
 {
- "count": 1201,
- "generated": "2026-11-24T15:38:15.212940Z",
+ "count": 1202,
+ "generated": "2026-11-24T16:11:52.633546Z",
  "articles": [
+  {
+   "id": 1202,
+   "slug": "article-1202",
+   "title": "💳 اختراق «كليفربريدج» يسرق أرقام بطاقات ورموز أمان! منصة دفع لشركات كبرى تبلّغ عملاءها!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r300-w300-01.jpg"
+  },
   {
    "id": 1201,
    "slug": "article-1201",
