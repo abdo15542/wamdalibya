@@ -1,7 +1,107 @@
 {
- "count": 1224,
- "generated": "2026-11-24T18:46:47.530206Z",
+ "count": 1234,
+ "generated": "2026-11-24T19:08:37.647810Z",
  "articles": [
+  {
+   "id": 1234,
+   "slug": "article-1234",
+   "title": "▶️ «يوتيوب» يختبر 7 أيقونات بديلة لتطبيقه على «أندرويد».. غيّر شكل التطبيق كما تشاء!",
+   "date": "2026-11-24",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1233,
+   "slug": "article-1233",
+   "title": "🎯 «كول أوف ديوتي» تفقد 42% من لاعبيها بعد إطلاق «جي تي إيه 6»!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1232,
+   "slug": "article-1232",
+   "title": "✈️ «تيليغرام» يحتفل بعيده الثالث عشر.. رسائل ترحيب وأزرار تفاعلية داخل الرسائل!",
+   "date": "2026-11-24",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1231,
+   "slug": "article-1231",
+   "title": "🎮 قبل «جي تي إيه 6» بأسبوع.. مبيعات «بلايستيشن 5» و«إكس بوكس» تقفز أكثر من الضعف!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1230,
+   "slug": "article-1230",
+   "title": "📱 «موتورولا» تشوّق لهاتف «رازر فولد» جديد بحجم جواز السفر.. منافس لـ«آيفون ديو»!",
+   "date": "2026-11-24",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1229,
+   "slug": "article-1229",
+   "title": "🇰🇪 مزاعم باختراق منصة «إي سيتيزن» الكينية.. 740 غيغابايت من بيانات الهوية قيد التحقيق!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1228,
+   "slug": "article-1228",
+   "title": "🇪🇺 المفوضية الأوروبية تؤكد سرقة بيانات.. أسماء وبريد مستخدمي «أكاديمية الاتحاد الأوروبي»!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1227,
+   "slug": "article-1227",
+   "title": "🍔 اختراق يطال «ماكدونالدز اليابان».. سجلات الشراء ومواقع الأجهزة مكشوفة!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1226,
+   "slug": "article-1226",
+   "title": "💰 «مارلو» تجمع 277 مليون دولار.. مراكز بيانات للذكاء الاصطناعي بلا شرائح «إنفيديا»!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1225,
+   "slug": "article-1225",
+   "title": "🤖 «إيه دبليو إس» تطلق نماذج قرارات مفتوحة.. وتضع وكلاء البرمجة في صندوق عزل!",
+   "date": "2026-11-24",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1224,
    "slug": "article-1224",
