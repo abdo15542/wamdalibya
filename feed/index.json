@@ -1,7 +1,79 @@
 {
- "count": 1193,
- "generated": "2026-11-24T14:46:35.611454Z",
+ "count": 1201,
+ "generated": "2026-11-24T15:38:15.212940Z",
  "articles": [
+  {
+   "id": 1201,
+   "slug": "article-1201",
+   "title": "⌨️ جهاز مكتبي صغير يحوّل همسك إلى نص! «فويس باد» بخمسة أزرار يطلق مساعدي الذكاء الاصطناعي بضغطة!",
+   "date": "2026-11-24",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r299-w299-08.jpg"
+  },
+  {
+   "id": 1200,
+   "slug": "article-1200",
+   "title": "🤖 روبوت حرّ في الفضاء يتعلم الإمساك بالأدوات الطائرة! «بي كور» يدرّب «أستروبي» ليناول رائد الفضاء مفكّه!",
+   "date": "2026-11-24",
+   "category": "space",
+   "category_name": "الفضاء",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r299-w299-07.jpg"
+  },
+  {
+   "id": 1199,
+   "slug": "article-1199",
+   "title": "🚀 روبوت روسي شبيه بالبشر ينطلق إلى محطة الفضاء! «تيليدرويد» يعمل خارج المحطة بدل رواد الفضاء!",
+   "date": "2026-11-24",
+   "category": "space",
+   "category_name": "الفضاء",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r299-w299-06.jpg"
+  },
+  {
+   "id": 1198,
+   "slug": "article-1198",
+   "title": "⚠️ «سيسا» تضع ثغرتي «إن-إيبل» و«موناي» في قائمة «أصلح فوراً»! الاستغلال نشط والمهلة انتهت!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r299-w299-05.jpg"
+  },
+  {
+   "id": 1197,
+   "slug": "article-1197",
+   "title": "🛡️ بريطانيا تحذّر: أدوات هجومية بوكلاء الذكاء الاصطناعي تسرّع الاختراقات! الهجوم الآلي صار أسرع من الترقيع!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r299-w299-04.jpg"
+  },
+  {
+   "id": 1196,
+   "slug": "article-1196",
+   "title": "🔑 «أوبن روتر» يطرد ثلاثة مزوّدين بعد تسرّب أسئلة المستخدمين! مفاتيحك التي كتبتها في الذكاء الاصطناعي قد تكون مكشوفة!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r299-w299-03.jpg"
+  },
+  {
+   "id": 1195,
+   "slug": "article-1195",
+   "title": "🕵️ صفحة ويب خبيثة واحدة تكفي لسرقة محادثات «ميوز»! باحثون يخترقون مساعد «ميتا» من المتصفح!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r299-w299-02.jpg"
+  },
+  {
+   "id": 1194,
+   "slug": "article-1194",
+   "title": "🏦 بنوك أمريكية تشدّد القيود على وكلاء الذكاء الاصطناعي! «زر إيقاف» يمنع الوكيل من الخروج عن السيطرة!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r299-w299-01.jpg"
+  },
   {
    "id": 1193,
    "slug": "article-1193",
