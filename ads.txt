@@ -1,3 +1,3 @@
-# ads.txt — ومضة ليبية
-# Google AdSense — معرّف الناشر لحساب ومضة ليبية
+# ads.txt — ومضة
+# Google AdSense — معرّف الناشر لحساب ومضة
 google.com, pub-6317687886565811, DIRECT, f08c47fec0942fa0

@@ -97,4 +97,73 @@
       }
     });
   }
+
+  // لوحة الإعلانات + تنبيه تحديث التطبيق (يقرأ announcements.json)
+  var annBoard = document.getElementById("annBoard");
+  var isAnnPage = /announcements\.html$/.test(location.pathname);
+  var lang = (document.documentElement.lang || "ar").slice(0, 2);
+  var ANN_TXT = lang === "en"
+    ? { empty: "No announcements yet.", update: "A new version of the app is available", dl: "Download update", close: "Dismiss" }
+    : { empty: "لا توجد إعلانات بعد.", update: "إصدار جديد من التطبيق متوفر", dl: "تنزيل التحديث", close: "إغلاق" };
+  function siteBasePath() {
+    // مسار جذر الموقع: /wamdalibya أو /libyapulse على GitHub Pages، فارغ على نطاق جذري
+    var p = location.pathname.replace(/\/$/, "");
+    p = p.replace(/\/articles\/[^/]+$/, "").replace(/\/categories\/[^/]+$/, "").replace(/\/[^/]+\.html$/, "");
+    return p;
+  }
+  function escHtml(s) {
+    return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  }
+  function loadAnnouncements(cb) {
+    try {
+      fetch(siteBasePath() + "/announcements.json", { cache: "no-store" })
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .then(function (d) { if (d) cb(d); })
+        .catch(function () { /* silent: no banner, board keeps its empty state */ });
+    } catch (e) { /* silent */ }
+  }
+  function renderBoard(data) {
+    if (!annBoard) return;
+    var items = (data && data.items) || [];
+    if (!items.length) return; // keep the shell's empty-state line
+    var html = "";
+    items.forEach(function (it) {
+      html += '<article class="card ann-card">';
+      if (it.image) html += '<img src="' + escHtml(it.image) + '" alt="" loading="lazy">';
+      html += '<div class="card-body"><h3>' + escHtml(it.title || "") + "</h3>";
+      if (it.text) html += "<p>" + escHtml(it.text) + "</p>";
+      if (it.date) html += '<p class="card-meta">' + escHtml(it.date) + "</p>";
+      if (it.button_text && it.button_url) html += '<p><a class="btn btn-gold" href="' + escHtml(it.button_url) + '">' + escHtml(it.button_text) + "</a></p>";
+      html += "</div></article>";
+    });
+    annBoard.innerHTML = html;
+  }
+  function showUpdateBanner(data) {
+    if (!data || !data.apk_url) return;
+    try {
+      if (sessionStorage.getItem("wamda-update-dismissed") === String(data.latest_version_code)) return;
+    } catch (e) { /* ignore */ }
+    var bar = document.createElement("div");
+    bar.className = "update-banner";
+    bar.setAttribute("role", "alert");
+    bar.innerHTML = "<span>" + escHtml(ANN_TXT.update) + "</span> " +
+      '<a class="btn btn-gold" href="' + escHtml(data.apk_url) + '">' + escHtml(ANN_TXT.dl) + "</a> " +
+      '<button type="button" class="update-close" aria-label="' + escHtml(ANN_TXT.close) + '">✕</button>';
+    bar.querySelector(".update-close").addEventListener("click", function () {
+      try { sessionStorage.setItem("wamda-update-dismissed", String(data.latest_version_code)); } catch (e) { /* ignore */ }
+      if (bar.parentNode) bar.parentNode.removeChild(bar);
+    });
+    document.body.insertBefore(bar, document.body.firstChild);
+  }
+  if (annBoard) loadAnnouncements(renderBoard);
+  if (!isAnnPage) {
+    // تنبيه التحديث يظهر داخل التطبيق فقط، وعندما يحمل التطبيق رمز إصدار vc
+    var vcMatch = navigator.userAgent.match(/WamdaApp\/1\.0 vc(\d+)/);
+    if (vcMatch) {
+      loadAnnouncements(function (data) {
+        var installed = parseInt(vcMatch[1], 10);
+        if (data.latest_version_code && installed < data.latest_version_code) showUpdateBanner(data);
+      });
+    }
+  }
 })();
