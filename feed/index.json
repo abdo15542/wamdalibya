@@ -1,7 +1,70 @@
 {
- "count": 1186,
- "generated": "2026-11-24T14:41:40.631992Z",
+ "count": 1193,
+ "generated": "2026-11-24T14:46:35.611454Z",
  "articles": [
+  {
+   "id": 1193,
+   "slug": "article-1193",
+   "title": "🧪 اختبار «فينتشر بيت»: «كلود فابل 5.2» يكلّف 3 أضعاف «أوبوس 5.5» لنتيجة متقاربة!",
+   "date": "2026-11-24",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r298-w298-07.jpg"
+  },
+  {
+   "id": 1192,
+   "slug": "article-1192",
+   "title": "💰 «أنثروبيك» صارت أكبر زبون لـ«إكس إيه آي»: 3.1 مليارات دولار شهرياً!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r298-w298-06.jpg"
+  },
+  {
+   "id": 1191,
+   "slug": "article-1191",
+   "title": "💾 «ميم وانس»: ذاكرة للذكاء الاصطناعي أصغر 1313 مرة! مليون رمز في 25 ميغابايت!",
+   "date": "2026-11-24",
+   "category": "computing",
+   "category_name": "الحوسبة والبرمجة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r298-w298-05.jpg"
+  },
+  {
+   "id": 1190,
+   "slug": "article-1190",
+   "title": "🌐 «بلان 4 دي»: «علي بابا» تعلّم الذكاء الاصطناعي تخيّل المستقبل في عالم رباعي الأبعاد!",
+   "date": "2026-11-24",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r298-w298-04.jpg"
+  },
+  {
+   "id": 1189,
+   "slug": "article-1189",
+   "title": "🧠 دراسة ستانفورد: أسبوعان بلا «تشات جي بي تي» يقللان الشعور بالوحدة!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r298-w298-03.jpg"
+  },
+  {
+   "id": 1188,
+   "slug": "article-1188",
+   "title": "⚡ محرك «أتوميك» يشغّل «إنكلينغ 2 ميني» أسرع بثلاث مرات بنصف الذاكرة! حتى على حاسوبك المحمول!",
+   "date": "2026-11-24",
+   "category": "computing",
+   "category_name": "الحوسبة والبرمجة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r298-w298-02.jpg"
+  },
+  {
+   "id": 1187,
+   "slug": "article-1187",
+   "title": "⏳ «أوبن إيه آي» تُقاعد «جي بي تي 5.6 سول» و«تيرا» في 23 ديسمبر! و«سول 6.2» يصل إلى محادثاتك!",
+   "date": "2026-11-24",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r298-w298-01.jpg"
+  },
   {
    "id": 1186,
    "slug": "article-1186",
