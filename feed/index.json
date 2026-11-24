@@ -1,7 +1,107 @@
 {
- "count": 1254,
- "generated": "2026-11-24T20:52:41.583907Z",
+ "count": 1264,
+ "generated": "2026-11-24T21:53:27.077023Z",
  "articles": [
+  {
+   "id": 1264,
+   "slug": "article-1264",
+   "title": "🪪 150 مليون رخصة قيادة أمريكية معروضة للبيع في الويب المظلم.. والكونغرس يستدعي شركات التحقق من الهوية!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1263,
+   "slug": "article-1263",
+   "title": "⚖️ هيئة السلوك المالي البريطانية تحذّر: وكلاء الذكاء الاصطناعي الذين يحرّكون الأموال خاضعون للترخيص.. وإلا العقوبة!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1262,
+   "slug": "article-1262",
+   "title": "🧩 إضافة مزيفة باسم «غوغل كروم» تسرق كلمات المرور وتتجسس عبر كاميرا الويب!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1261,
+   "slug": "article-1261",
+   "title": "🎮 تحديث «جي تي إيه 6» الأول لم يُصلح العطل.. لاعبو «بلايستيشن 5» ما زالوا يطيرون إلى الشاشة الرئيسية!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1260,
+   "slug": "article-1260",
+   "title": "🔑 رغم إغلاق «مايكروسوفت» له.. «إيفل توكنز» ما زال يسرق حسابات «مايكروسوفت 365» برمز تسجيل حقيقي!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1259,
+   "slug": "article-1259",
+   "title": "🖥️ باب خلفي جديد «زد كيو إيجنت» يتخفى في خوادم «لينكس».. والذكاء الاصطناعي يزرعه بأوامر بشرية!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1258,
+   "slug": "article-1258",
+   "title": "🕸️ «ويب وورم» يعيد بناء برنامج «في بي إن» شرعي ليختبئ به داخل شبكات الحكومات!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1257,
+   "slug": "article-1257",
+   "title": "💻 بتّ واحد يقلب الحماية رأساً على عقب.. كيف تجاوز باحث في «غوغل» حماية «ويندوز» و«فيرتشوال بوكس» معاً؟",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1256,
+   "slug": "article-1256",
+   "title": "🔓 ثغرة في «دبليو إتش إم سي إس» تكشف بيانات العملاء وكلمات مرور المديرين.. دون حتى تسجيل دخول!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1255,
+   "slug": "article-1255",
+   "title": "🔍 مجموعة تجسس جديدة «فولانت مانتيكور» تختبئ في شبكة مشاركة الملفات.. وتستهدف شركات طيران ومستشفيات!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1254,
    "slug": "article-1254",
