@@ -1,7 +1,107 @@
 {
- "count": 1244,
- "generated": "2026-11-24T19:57:53.369396Z",
+ "count": 1254,
+ "generated": "2026-11-24T20:52:41.583907Z",
  "articles": [
+  {
+   "id": 1254,
+   "slug": "article-1254",
+   "title": "🌐 تحديث عاجل لـ«كروم».. ثغرة حرجة قد تُخرج الكود من المتصفح!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1253,
+   "slug": "article-1253",
+   "title": "💻 «هواوي» تكشف «ميت بوك فولد إس».. حاسوب قابل للطي بثلاث شاشات!",
+   "date": "2026-11-24",
+   "category": "computing",
+   "category_name": "الحوسبة والبرمجة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1252,
+   "slug": "article-1252",
+   "title": "📺 الشرطة الأوروبية توقف 57 خدمة بث غير قانوني.. وتتعقب 26 مليون يورو بالعملات الرقمية!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1251,
+   "slug": "article-1251",
+   "title": "🖥️ ثغرة «سكرين كونكت» تختطف حواسيب فنيي الدعم.. في 9 ثوانٍ فقط!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1250,
+   "slug": "article-1250",
+   "title": "🏛️ اختراق يطال «كارنيغي إنداومنت».. بيانات متبرعين تسربت عبر مورّد خارجي!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1249,
+   "slug": "article-1249",
+   "title": "💻 «برودكوم» تصلح 23 ثغرة في «في إم وير».. ثلاث منها بدرجة 9.8 من 10!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1248,
+   "slug": "article-1248",
+   "title": "🤖 حملة «جي تي 13» تخترق خوادم «تشيك بوينت» في 22 منظمة.. والذكاء الاصطناعي في قلب الهجوم!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1247,
+   "slug": "article-1247",
+   "title": "🔥 ثغرتان حرجتان في جدران «بالو ألتو».. تنفيذ كود بلا كلمة مرور!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1246,
+   "slug": "article-1246",
+   "title": "🔓 باب خلفي في 6 إضافات «ووردبريس».. يسرق كلمات المرور ويسيطر على المواقع!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1245,
+   "slug": "article-1245",
+   "title": "🕵️ اختراق يطال «سي آي إيه» ومديرية الاستخبارات الوطنية.. معلومات غير سرية مكشوفة!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1244,
    "slug": "article-1244",
