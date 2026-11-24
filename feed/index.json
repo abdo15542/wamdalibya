@@ -1,7 +1,67 @@
 {
- "count": 1208,
- "generated": "2026-11-24T17:14:00.415069Z",
+ "count": 1214,
+ "generated": "2026-11-24T18:08:59.346344Z",
  "articles": [
+  {
+   "id": 1214,
+   "slug": "article-1214",
+   "title": "💾 «غالاكسي إس 27 ألترا» العادي قد يفوته أسرع ذاكرة.. «سامسونغ» تحصر الجديد في الفئات الأغلى!",
+   "date": "2026-11-24",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1213,
+   "slug": "article-1213",
+   "title": "🎮 «جي تي إيه 6» تتعطل على «بلايستيشن 5» وتوقف تقدم اللاعبين.. و«روكستار» ترد بتحديث!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1212,
+   "slug": "article-1212",
+   "title": "🔗 «سولانا» تطلق «solana.ai».. وكلاء ذكاء اصطناعي يتاجرون ويدفعون وحدهم!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1211,
+   "slug": "article-1211",
+   "title": "⌚ «غالاكسي فيت 4» يتسرب سعره قبل الإطلاق.. 79.90 يورو وألوان جديدة وميزات أكثر!",
+   "date": "2026-11-24",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1210,
+   "slug": "article-1210",
+   "title": "🚚 شاحنات كهربائية بـ100 مليون دولار جديدة.. «هاربينغر» تتوسع بتمويل من بنك «بالمر لوكي»",
+   "date": "2026-11-24",
+   "category": "tech-news",
+   "category_name": "أخبار تقنية",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1209,
+   "slug": "article-1209",
+   "title": "🚗 سيارة أجرة بلا سائق أخيراً في شوارع سان فرانسيسكو.. «أوبر» و«لوسيد» و«نورو» تبدأ الاختبار الكامل",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1208,
    "slug": "article-1208",
