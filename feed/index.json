@@ -1,7 +1,107 @@
 {
- "count": 1234,
- "generated": "2026-11-24T19:08:37.647810Z",
+ "count": 1244,
+ "generated": "2026-11-24T19:57:53.369396Z",
  "articles": [
+  {
+   "id": 1244,
+   "slug": "article-1244",
+   "title": "🎮 «إكس بوكس هيليكس» كان سيجعل اللعب الجماعي مجانياً.. ويفتح الباب لـ«ستيم»!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1243,
+   "slug": "article-1243",
+   "title": "🖥️ شاشة «أوديسي جي 6» بـ1100 هرتز تصل إلى المتاجر.. أسرع شاشة ألعاب في العالم!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1242,
+   "slug": "article-1242",
+   "title": "📰 «مايكروسوفت» تطلق سوقاً للمحتوى.. الناشرون يتقاضون أجراً حين يتعلم الذكاء الاصطناعي من مقالاتهم!",
+   "date": "2026-11-24",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1241,
+   "slug": "article-1241",
+   "title": "🏦 اختراق «سامسونغ سيكيوريتيز».. بيانات 8241 عميلاً تسربت من نموذج شكاوى!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1240,
+   "slug": "article-1240",
+   "title": "🎵 «سبوتيفاي» يطرد آلاف المستخدمين من حساباتهم.. عطل مفاجئ يوقف الموسيقى!",
+   "date": "2026-11-24",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1239,
+   "slug": "article-1239",
+   "title": "🛡️ «دي إكس سي» تطلق خدمة تحرس البرمجيات بـ«كلود ميثوس».. والبشر يقررون الإصلاح!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1238,
+   "slug": "article-1238",
+   "title": "💼 «سي دي دبليو» تطلق 3 أدوات ذكاء اصطناعي.. من التجربة إلى الإنتاج بلا هدر!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1237,
+   "slug": "article-1237",
+   "title": "🤖 روبوتات «إكس سكوير» تدخل مكاتب البريد الماليزية.. تفرز الطرود وتتعلم بنفسها!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1236,
+   "slug": "article-1236",
+   "title": "⚙️ «إيه بي بي» تطلق أول محرك في العالم بعقل مدمج.. يتنبأ بالأعطال قبل وقوعها!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1235,
+   "slug": "article-1235",
+   "title": "🔓 مليـارا بيانات اعتماد مكشوفة على الإنترنت.. وملفات تكشف حياتك كاملة!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1234,
    "slug": "article-1234",
