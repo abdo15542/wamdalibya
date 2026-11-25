@@ -1,7 +1,107 @@
 {
- "count": 1286,
- "generated": "2026-11-25T10:33:19.950992Z",
+ "count": 1296,
+ "generated": "2026-11-25T11:14:39.167999Z",
  "articles": [
+  {
+   "id": 1296,
+   "slug": "article-1296",
+   "title": "✂️ «جيميناي» يتيح تقطيع الملفات في واجهته البرمجية.. ادفع فقط مقابل ما يقرؤه النموذج!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1295,
+   "slug": "article-1295",
+   "title": "📸 «غالاكسي إس 27 ألترا» قد يفقد مستشعر التركيز الليزري وكاميرا التقريب 3x!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1294,
+   "slug": "article-1294",
+   "title": "🚨 ثغرة حرجة في «سيسكو إكسبريس واي» تُستغل فعلياً.. والمهاجم يحصل على صلاحيات الجذر!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1293,
+   "slug": "article-1293",
+   "title": "✨ تسريب «ون بلس نورد 7» يكشف شريط إضاءة ملوناً وبطارية 9000 مللي أمبير!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1292,
+   "slug": "article-1292",
+   "title": "📱 «آي كيو أو 16» يصل ماليزيا في 8 ديسمبر.. معالج 2 نانومتر وشاشة 165 هرتز!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1291,
+   "slug": "article-1291",
+   "title": "🛡️ «إكسين» تطلق وكيل «راي».. ذكاء اصطناعي يحمي الأجهزة المتصلة من داخل برمجياتها!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1290,
+   "slug": "article-1290",
+   "title": "🦊 «فايرفوكس 161» يصل بقواعد «في بي إن» لكل موقع وزر «النار» لمسح بياناتك بنقرة!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1289,
+   "slug": "article-1289",
+   "title": "📵 عطل مفاجئ يوقف «تيك توك» عن 25 ألف مستخدم.. فيديوهات لا تتحمل وملفات فارغة!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1288,
+   "slug": "article-1288",
+   "title": "⚖️ هيئة محلفين أمريكية تُدين «هواوي» في 10 من 12 تهمة.. احتيال وسرقة أسرار تجارية!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1287,
+   "slug": "article-1287",
+   "title": "🏦 «فين سين» الأمريكية تكشف اختراقاً لأنظمتها.. والبنوك تتلقى تعليمات عاجلة!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1286,
    "slug": "article-1286",
