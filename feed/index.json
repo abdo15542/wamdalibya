@@ -1,7 +1,77 @@
 {
- "count": 1279,
- "generated": "2026-11-25T06:56:57.191336Z",
+ "count": 1286,
+ "generated": "2026-11-25T10:33:19.950992Z",
  "articles": [
+  {
+   "id": 1286,
+   "slug": "article-1286",
+   "title": "⚖️ اليابان تفتح ملف مسؤولية وكلاء الذكاء الاصطناعي.. من يدفع حين يخطئ الوكيل؟",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1285,
+   "slug": "article-1285",
+   "title": "🪐 هواة فلك يكتشفون 49 كوكباً محتملاً بمساعدة الذكاء الاصطناعي.. من بيانات «ناسا» المفتوحة!",
+   "date": "2026-11-25",
+   "category": "space",
+   "category_name": "الفضاء",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1284,
+   "slug": "article-1284",
+   "title": "🌿 «بونساي الثلاثي 2.5».. نموذج ذكاء اصطناعي قوي يعمل على حاسوبك بذاكرة 5.9 غيغابايت فقط!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1283,
+   "slug": "article-1283",
+   "title": "🤖 «بايت دانس» تطلق «شياودو».. مساعد شخصي يتذكرك وينجز مهامك في الخلفية!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1282,
+   "slug": "article-1282",
+   "title": "🏆 «جيميناي 4 نيون» يتصدر «لايف بنش».. 87.4 ويتفوق على منافسيه بفارق واضح!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1281,
+   "slug": "article-1281",
+   "title": "💻 «كلود» يحوّل أدواته إلى تطبيقات سطح مكتب.. ثبّت ما بنيته بزر واحد!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1280,
+   "slug": "article-1280",
+   "title": "🧬 «جي بي تي 6.2» يصمّم بروتينات حقيقية في المختبر.. 35 بروتيناً ترتبط بأهداف علاجية!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1279,
    "slug": "article-1279",
