@@ -1,7 +1,87 @@
 {
- "count": 1305,
- "generated": "2026-11-25T11:51:50.949855Z",
+ "count": 1313,
+ "generated": "2026-11-25T12:51:15.531288Z",
  "articles": [
+  {
+   "id": 1313,
+   "slug": "article-1313",
+   "title": "📱 «غالاكسي زد تراي فولد 2» يظهر في التسريبات.. وإصدار محدود مجدداً!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1312,
+   "slug": "article-1312",
+   "title": "📱 «رازر 2027» يأتي مبكراً في يناير.. وشاشة خارجية أكبر أخيراً!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1311,
+   "slug": "article-1311",
+   "title": "📱 «ريدمي نوت 18» يظهر في شهادة صينية.. بطارية 8888 مللي أمبير!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1310,
+   "slug": "article-1310",
+   "title": "🎬 «أوبو فايند إكس 10 برو ماكس» يصوّر كالمحترفين.. تطبيق «بلاك ماجيك» يصل رسمياً!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1309,
+   "slug": "article-1309",
+   "title": "🤖 وكلاء ذكاء اصطناعي يخترقون خادم جامعة في 11 دقيقة.. بلا أوامر تفصيلية!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1308,
+   "slug": "article-1308",
+   "title": "🚁 درون «أمازون» يسقط على مرآب بعد توصيل شامبو.. والطيران الفيدرالي يحقق!",
+   "date": "2026-11-25",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1307,
+   "slug": "article-1307",
+   "title": "💻 «كلود» يحوّل أدواته إلى تطبيقات سطح مكتب حقيقية!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1306,
+   "slug": "article-1306",
+   "title": "🔔 «آبل» تحذّر مستخدمي آيفون في 99 دولة من هجوم برامج تجسس!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-02.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1305,
    "slug": "article-1305",
