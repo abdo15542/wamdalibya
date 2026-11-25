@@ -1,7 +1,97 @@
 {
- "count": 1296,
- "generated": "2026-11-25T11:14:39.167999Z",
+ "count": 1305,
+ "generated": "2026-11-25T11:51:50.949855Z",
  "articles": [
+  {
+   "id": 1305,
+   "slug": "article-1305",
+   "title": "🔋 جامعة تايوان الوطنية تصنع شريحة تشغّل الذكاء الاصطناعي في هاتفك.. بلا سحابة!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-14.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1304,
+   "slug": "article-1304",
+   "title": "📜 «جي بي تي 6.2 أسترا» يحل لغزاً تاريخياً عمره 200 عام في 22 دقيقة!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-13.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1303,
+   "slug": "article-1303",
+   "title": "🎓 خُمس شركات اليابان يقلّص توظيف الخريجين.. الذكاء الاصطناعي يأخذ الوظائف المكتبية!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-11.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1302,
+   "slug": "article-1302",
+   "title": "💶 «أكسليرا» الهولندية تتفاوض على 400 مليون دولار لمنافسة «إنفيديا»!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1301,
+   "slug": "article-1301",
+   "title": "🧮 «أوبن إيه آي» تزعم حل لغز رياضي عمره عقود.. ضرب المصفوفات بأس 2.25!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1300,
+   "slug": "article-1300",
+   "title": "🧸 نيويورك توقف ألعاب روبوتات المحادثة 5 سنوات.. دمى تتحدث مع الأطفال!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1299,
+   "slug": "article-1299",
+   "title": "⚠️ «آبل» تحذف تطبيق «توكي» بعد تحقيق صحفي.. و50 ألف طفل أسترالي استخدموه!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1298,
+   "slug": "article-1298",
+   "title": "💬 مساعد «موس» يدخل رسائل إنستغرام.. يلخّص محادثاتك ويرتّب محفوظاتك!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1297,
+   "slug": "article-1297",
+   "title": "🎵 «تيدال» تحذف 29 مليون أغنية مولّدة بالذكاء الاصطناعي.. وتغلق الباب أمامها نهائياً!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-02.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1296,
    "slug": "article-1296",
