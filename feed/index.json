@@ -1,7 +1,87 @@
 {
- "count": 1336,
- "generated": "2026-11-25T19:05:17.203057Z",
+ "count": 1344,
+ "generated": "2026-11-25T19:52:21.722253Z",
  "articles": [
+  {
+   "id": 1344,
+   "slug": "article-1344",
+   "title": "📝 نافذة بيضاء فارغة تُغلق «وورد» و«إكسل» و«أوتلوك».. و«مايكروسوفت» تصلح الخلل أخيراً!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1343,
+   "slug": "article-1343",
+   "title": "📱 اختراق يوقف تطبيق الهوية الرقمية في كولورادو.. و150 ألف شخص بلا رخصة قيادة رقمية!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1342,
+   "slug": "article-1342",
+   "title": "🦠 حزمتان خبيثتان في «إن بي إم» تسرقان مفاتيح المطورين.. والباب الخلفي اسمه «إنتروتوكسين»!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1341,
+   "slug": "article-1341",
+   "title": "🛒 اختراق «ديكاتلون» يكشف بيانات 163 ألف عميل.. ورسائل توصيل مزيفة تتربص بالضحايا!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1340,
+   "slug": "article-1340",
+   "title": "🛡️ سويسرا تؤكد أول هجمات سيبرانية بوكلاء ذكاء اصطناعي.. وكل الحالات انتهت بالاختراق!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1339,
+   "slug": "article-1339",
+   "title": "🚢 هجوم سيبراني على 50 سفينة تجارية.. وثغرات «فورتي نت» تفتح الباب لغرف التحكم!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1338,
+   "slug": "article-1338",
+   "title": "✅ تطبيق «تودويست» يتعرض للاختراق.. بيانات 6% من المستخدمين وكلمات مرور قديمة في يد المهاجم!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1337,
+   "slug": "article-1337",
+   "title": "🕵️ اختراق يطال وكالة الاستخبارات المركزية الأمريكية.. وأداة ذكاء اصطناعي مشبوهة في قلب التحقيق!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1336,
    "slug": "article-1336",
