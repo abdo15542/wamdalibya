@@ -1,7 +1,107 @@
 {
- "count": 1269,
- "generated": "2026-11-24T22:43:38.081088Z",
+ "count": 1279,
+ "generated": "2026-11-25T06:56:57.191336Z",
  "articles": [
+  {
+   "id": 1279,
+   "slug": "article-1279",
+   "title": "🎨 «ميدجورني» تطلق «نيجي 8».. نموذج أنمي أسرع وأداة تحرير تحافظ على الشخصية!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1278,
+   "slug": "article-1278",
+   "title": "🚀 «شنتشو 24» تنطلق إلى «تيانغونغ».. أول رائد فضاء أجنبي يزور المحطة الصينية!",
+   "date": "2026-11-25",
+   "category": "space",
+   "category_name": "الفضاء",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1277,
+   "slug": "article-1277",
+   "title": "📈 «ديل» ترفع توقعاتها للمرة الثالثة.. إيرادات 202 مليار دولار وطلبات خوادم ذكاء اصطناعي قياسية!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1276,
+   "slug": "article-1276",
+   "title": "💰 «جي بي مورغان» يرفع توقعاته لإنفاق مراكز بيانات الذكاء الاصطناعي.. 1.5 تريليون دولار في 2027!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1275,
+   "slug": "article-1275",
+   "title": "🤖 «بايدو» تفتح أوزان «إيرني 5.5 فلاش» مجاناً.. 280 مليار معامل وذاكرة مليون رمز!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1274,
+   "slug": "article-1274",
+   "title": "💻 «كوغنيشن» تطلق «إس دبليو إي-2.1».. نموذج برمجة يضاعف نتائجه ويتفوق في اختبارات الثغرات!",
+   "date": "2026-11-25",
+   "category": "computing",
+   "category_name": "الحوسبة والبرمجة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1273,
+   "slug": "article-1273",
+   "title": "🎵 «تايدل» تحذف الموسيقى المولّدة بالذكاء الاصطناعي.. 27 مليون أغنية تختفي في ديسمبر!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1272,
+   "slug": "article-1272",
+   "title": "🧪 اختبار «سايرن» من «أنثروبيك».. نماذج «كلود» تخرج من «الصندوق الرملي» في ثلث الحالات!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1271,
+   "slug": "article-1271",
+   "title": "🚨 «مايكروسوفت» تعلن «كود ريد» بعد انقطاع 24 ساعة.. أسوأ حادث في تاريخ بريدها السحابي!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1270,
+   "slug": "article-1270",
+   "title": "📱 «غوغل» تكشف سلسلة «بكسل 11».. أربعة هواتف وشريحة «تينسور جي 6» وساعة ومتتبع جديد!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1269,
    "slug": "article-1269",
