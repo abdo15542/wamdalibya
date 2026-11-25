@@ -1,7 +1,87 @@
 {
- "count": 1322,
- "generated": "2026-11-25T17:10:32.736304Z",
+ "count": 1330,
+ "generated": "2026-11-25T18:28:38.850734Z",
  "articles": [
+  {
+   "id": 1330,
+   "slug": "article-1330",
+   "title": "🏠 روبوتات تبني بيوتاً في المصنع.. «ريفريم» تختصر وقت البناء وتخفض تكلفته!",
+   "date": "2026-11-25",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1329,
+   "slug": "article-1329",
+   "title": "💆 روبوت يدلّك عضلاتك بالذكاء الاصطناعي.. «إيسكيب» تجعل جلسات التعافي في متناول الجميع!",
+   "date": "2026-11-25",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1328,
+   "slug": "article-1328",
+   "title": "🩺 ذكاء اصطناعي يساعد في كشف سرطان الرئة مبكراً.. مستشفى بريطاني يختبره كعين ثانية!",
+   "date": "2026-11-25",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1327,
+   "slug": "article-1327",
+   "title": "🖨️ «غوديلا» تطلق «غودل-1».. ذكاء اصطناعي يصمّم منتجات حقيقية من جملة مكتوبة!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1326,
+   "slug": "article-1326",
+   "title": "🚗 وكلاء ذكاء اصطناعي يشخّصون أعطال «مرسيدس» أسرع بنسبة 30%.. والفنيون يصلحون أسرع!",
+   "date": "2026-11-25",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1325,
+   "slug": "article-1325",
+   "title": "💊 رئيس «نوفارتيس»: الذكاء الاصطناعي لن يشفي السرطان خلال 10 سنوات.. ونحن لا نفهم إلا 5% من الجسم!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1324,
+   "slug": "article-1324",
+   "title": "🛡️ ثغرتان في «جيو سيرفر» تُستغلان الآن.. وسلسلة ثغرات تمنح المهاجم السيطرة الكاملة بلا كلمة مرور!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1323,
+   "slug": "article-1323",
+   "title": "🚨 عطل «أولستيت» يشلّ موقعها وتطبيقها لليوم الثالث.. وعملاؤها بلا مطالبات قبل عيد الشكر!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1322,
    "slug": "article-1322",
