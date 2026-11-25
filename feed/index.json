@@ -1,7 +1,67 @@
 {
- "count": 1330,
- "generated": "2026-11-25T18:28:38.850734Z",
+ "count": 1336,
+ "generated": "2026-11-25T19:05:17.203057Z",
  "articles": [
+  {
+   "id": 1336,
+   "slug": "article-1336",
+   "title": "🚁 «دراغون فلاي» تحصل على عيونها.. 7 كاميرات تستعد لاستكشاف قمر «تيتان»!",
+   "date": "2026-11-25",
+   "category": "space",
+   "category_name": "الفضاء",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1335,
+   "slug": "article-1335",
+   "title": "🪨 صور «هيرا» الأولى تكشف فوهة بحجم ملعب في الكويكب «ديمورفوس».. ومئات الصخور تدور حوله!",
+   "date": "2026-11-25",
+   "category": "space",
+   "category_name": "الفضاء",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1334,
+   "slug": "article-1334",
+   "title": "🛡️ ثغرات حرجة في «ديب سبيد» و«باي تورش».. ملف نموذج خبيث قد ينفّذ كوداً على جهازك!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1333,
+   "slug": "article-1333",
+   "title": "⚖️ قاضٍ يجمّد جمع الأدلة في قضية «أمازون» ضد «بيربلكسيتي».. ومصير وكيل التسوق «كوميت» معلّق!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1332,
+   "slug": "article-1332",
+   "title": "⚠️ ثغرة «دروبال» تُستغل فعلياً الآن.. ووكالة الأمن الأمريكية تأمر بإصلاحها قبل 27 نوفمبر!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1331,
+   "slug": "article-1331",
+   "title": "🚨 ثغرة بدرجة 10 من 10 تخترق سجل حزم «إليكسير».. مهاجم يشغّل أوامر على 6 خوادم في 13 دقيقة!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1330,
    "slug": "article-1330",
