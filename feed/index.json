@@ -1,7 +1,57 @@
 {
- "count": 1264,
- "generated": "2026-11-24T21:53:27.077023Z",
+ "count": 1269,
+ "generated": "2026-11-24T22:43:38.081088Z",
  "articles": [
+  {
+   "id": 1269,
+   "slug": "article-1269",
+   "title": "🛡️ «إنستغرام» يحمي مقاطع «ريلز» الأصلية من السرقة.. والحماية تبدأ تلقائياً بعد التسجيل!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1268,
+   "slug": "article-1268",
+   "title": "🏥 تسريب بيانات مرضى في مستشفى «غلين إيغلز» بهونغ كونغ.. والتطبيق متوقف والسلطات الصحية تتدخل!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1267,
+   "slug": "article-1267",
+   "title": "💰 جدل حول رمز «أنت» المرمّز لسهم «أنثروبيك».. 140 مليون دولار في يومين، فهل كان التداول حقيقياً؟",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1266,
+   "slug": "article-1266",
+   "title": "🧩 ثغرة حرجة في مكتبة «باينري بارسر» الشهيرة.. تعريف واحد خبيث يكفي لتنفيذ كود داخل خوادم «نود جي إس»!",
+   "date": "2026-11-25",
+   "category": "computing",
+   "category_name": "الحوسبة والبرمجة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1265,
+   "slug": "article-1265",
+   "title": "🤖 أدوات هجوم بالذكاء الاصطناعي تستهدف وكلاء البرمجة وروبوتات المحادثة.. والوكلاء أنفسهم ينفّذون الهجوم!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1264,
    "slug": "article-1264",
