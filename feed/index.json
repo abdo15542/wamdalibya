@@ -1,10 +1,110 @@
 {
- "count": 1313,
- "generated": "2026-11-25T12:51:15.531288Z",
+ "count": 1322,
+ "generated": "2026-11-25T17:10:32.736304Z",
  "articles": [
+  {
+   "id": 1322,
+   "slug": "article-1322",
+   "title": "⚖️ «أوبن إيه آي» حاولت ضم فريق مكتب محاماة للذكاء الاصطناعي.. فرفض العرض!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1321,
+   "slug": "article-1321",
+   "title": "📷 «نيويورك تايمز» تمنع مصوريها من «فوتوشوب 2027».. والسبب ذكاء اصطناعي خفي!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1320,
+   "slug": "article-1320",
+   "title": "🔌 «هواوي» و«فليكسينغ» تربطان أدوات تصميم رقائق صينية.. وتختبرانها على مشروع حقيقي!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1319,
+   "slug": "article-1319",
+   "title": "🏆 مسابقة «هالو» لتدريب النماذج: 200 ألف دولار جوائز و1.5 مليون دولار حوسبة!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1318,
+   "slug": "article-1318",
+   "title": "🧠 «أنثروبيك» تعيد الاعتبار لخلايا الذكاء الاصطناعي.. فهل صار عقل النموذج مقروءاً؟",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1317,
+   "slug": "article-1317",
+   "title": "🧪 اختبار «شيل بنش» الجديد: أفضل وكلاء الذكاء الاصطناعي يفشلون في مهام الحياة اليومية!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1316,
+   "slug": "article-1316",
+   "title": "🎬 «ماجي-2» يولّد فيديو 30 ثانية بصوت متزامن.. ونموذج ضخم بـ480 مليار معامل!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r314-w314-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1315,
+   "slug": "article-1315",
+   "title": "📉 أسهم «أنثروبيك» تغلق دون سعر الطرح لأول مرة.. ومديرها التنفيذي باع أسهماً بـ280 مليون دولار!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r314-w314-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1314,
+   "slug": "article-1314",
+   "title": "🔌 بروتوكول «إم سي بي» يتجاوز 700 مليون تحميل شهرياً.. ووكلاء الذكاء الاصطناعي يعملون باستقلالية أكبر!",
+   "date": "2026-11-25",
+   "category": "computing",
+   "category_name": "الحوسبة والبرمجة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r314-w314-07.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1313,
    "slug": "article-1313",
+   "title": "🛒 وكيل «ميوز» من «ميتا» يستحوذ على 51% من مشتريات وكلاء الذكاء الاصطناعي.. ويتفوق على «غروك» و«تشات جي بي تي»!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r314-w314-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1312,
+   "slug": "article-1312",
    "title": "📱 «غالاكسي زد تراي فولد 2» يظهر في التسريبات.. وإصدار محدود مجدداً!",
    "date": "2026-11-25",
    "category": "phones",
@@ -13,8 +113,8 @@
    "fb_url": ""
   },
   {
-   "id": 1312,
-   "slug": "article-1312",
+   "id": 1311,
+   "slug": "article-1311",
    "title": "📱 «رازر 2027» يأتي مبكراً في يناير.. وشاشة خارجية أكبر أخيراً!",
    "date": "2026-11-25",
    "category": "phones",
@@ -23,8 +123,8 @@
    "fb_url": ""
   },
   {
-   "id": 1311,
-   "slug": "article-1311",
+   "id": 1310,
+   "slug": "article-1310",
    "title": "📱 «ريدمي نوت 18» يظهر في شهادة صينية.. بطارية 8888 مللي أمبير!",
    "date": "2026-11-25",
    "category": "phones",
@@ -33,8 +133,8 @@
    "fb_url": ""
   },
   {
-   "id": 1310,
-   "slug": "article-1310",
+   "id": 1309,
+   "slug": "article-1309",
    "title": "🎬 «أوبو فايند إكس 10 برو ماكس» يصوّر كالمحترفين.. تطبيق «بلاك ماجيك» يصل رسمياً!",
    "date": "2026-11-25",
    "category": "phones",
@@ -43,9 +143,9 @@
    "fb_url": ""
   },
   {
-   "id": 1309,
-   "slug": "article-1309",
-   "title": "🤖 وكلاء ذكاء اصطناعي يخترقون خادم جامعة في 11 دقيقة.. بلا أوامر تفصيلية!",
+   "id": 1308,
+   "slug": "article-1308",
+   "title": "🤖 ثغرة «موناي ليبل» تحصل على تصنيف 9.8 وإصلاح رسمي.. والوكلاء اخترقوها في 11 دقيقة!",
    "date": "2026-11-25",
    "category": "security",
    "category_name": "الأمن السيبراني",
@@ -53,23 +153,13 @@
    "fb_url": ""
   },
   {
-   "id": 1308,
-   "slug": "article-1308",
+   "id": 1307,
+   "slug": "article-1307",
    "title": "🚁 درون «أمازون» يسقط على مرآب بعد توصيل شامبو.. والطيران الفيدرالي يحقق!",
    "date": "2026-11-25",
    "category": "science",
    "category_name": "العلوم والابتكار",
    "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-04.jpg",
-   "fb_url": ""
-  },
-  {
-   "id": 1307,
-   "slug": "article-1307",
-   "title": "💻 «كلود» يحوّل أدواته إلى تطبيقات سطح مكتب حقيقية!",
-   "date": "2026-11-25",
-   "category": "ai",
-   "category_name": "الذكاء الاصطناعي",
-   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-03.jpg",
    "fb_url": ""
   },
   {
