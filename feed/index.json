@@ -1,7 +1,97 @@
 {
- "count": 1344,
- "generated": "2026-11-25T19:52:21.722253Z",
+ "count": 1353,
+ "generated": "2026-11-25T23:54:48.213113Z",
  "articles": [
+  {
+   "id": 1353,
+   "slug": "article-1353",
+   "title": "🤖 وكلاء ذكاء اصطناعي يسرقون بيانات الاعتماد ويخترقون شبكات شركات كاملة!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1352,
+   "slug": "article-1352",
+   "title": "🔥 ثغرة «فرانغنيسيا» تمنح المهاجمين صلاحيات الجذر في جدران «بالو ألتو».. والإصلاح وصل أخيراً!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1351,
+   "slug": "article-1351",
+   "title": "☁️ «راك سبيس» تغلق منصتها السحابية «سبوت» بعد الاختراق.. والعملاء أمامهم أسبوعان فقط!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1350,
+   "slug": "article-1350",
+   "title": "🎙️ «غروك» يتكلم أخيراً.. وضع صوتي جديد للمحادثات الفورية!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1349,
+   "slug": "article-1349",
+   "title": "🤖 «كودمندر» من «غوغل ديب مايند».. وكيل ذكاء اصطناعي يُصلح الثغرات بنفسه!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1348,
+   "slug": "article-1348",
+   "title": "🔑 تحديثات «مايكروسوفت» الأمنية تكسر تسجيل الدخول.. والحل مؤقت!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1347,
+   "slug": "article-1347",
+   "title": "🎓 هجوم سيبراني على «تورنيتين».. وأنظمة 71 مليون طالب تحت الفحص!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1346,
+   "slug": "article-1346",
+   "title": "❄️ ثغرة 9.8 من 10 في ثلاجات المتاجر.. ولا إصلاح حتى الآن!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1345,
+   "slug": "article-1345",
+   "title": "🔐 اختراق «ون باسورد» يسرق بيانات عملاء.. والخزائن نفسها لم تُمسّ!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1344,
    "slug": "article-1344",
