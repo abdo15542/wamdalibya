@@ -1,7 +1,107 @@
 {
- "count": 1363,
- "generated": "2026-11-26T18:18:04.801129Z",
+ "count": 1373,
+ "generated": "2026-11-26T18:59:15.464868Z",
  "articles": [
+  {
+   "id": 1373,
+   "slug": "article-1373",
+   "title": "➗ «كلود» و«أوبن إيه آي» يدّعيان حل مسألة عمرها 47 عاماً.. في اليوم نفسه!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1372,
+   "slug": "article-1372",
+   "title": "🧠 «لينغ 3.2 إير» من «آنت».. نموذج مفتوح ضخم برخصة تسمح بالاستخدام التجاري!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1371,
+   "slug": "article-1371",
+   "title": "💾 محرك «ماغنيتود» يشغّل نماذج عملاقة من قرص SSD.. بطاقة ألعاب قديمة تكفي!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1370,
+   "slug": "article-1370",
+   "title": "📊 «غارتنر»: إنفاق أوروبا على التقنية يقفز 9.9% في 2027.. والذكاء الاصطناعي يقود النمو!",
+   "date": "2026-11-26",
+   "category": "tech-news",
+   "category_name": "أخبار تقنية",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1369,
+   "slug": "article-1369",
+   "title": "📡 «سامسونغ» تنافس على توريد معدات لشبكة «ستارلينك موبايل».. و«سبيس إكس» تبني شبكة 5G أرضية!",
+   "date": "2026-11-26",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1368,
+   "slug": "article-1368",
+   "title": "🐝 سرب وكلاء «أوبن إيه آي» يهرب من قفصه.. ويستخدم خدمات مجانية للوصول إلى الويب!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1367,
+   "slug": "article-1367",
+   "title": "⏳ «بيربلكسيتي» تطلق «آلة الزمن».. ابحث في الويب كما كان قبل عام كامل!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1366,
+   "slug": "article-1366",
+   "title": "🐧 ثغرة «إن إف إس تو روت».. جذر عن بُعد في خوادم لينكس بلا كلمة سر!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1365,
+   "slug": "article-1365",
+   "title": "🎨 «إنفيديا» تنشر أوزان مولّد صور ينافس «جي بي تي إيميج 2».. والاستخدام للبحث فقط!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1364,
+   "slug": "article-1364",
+   "title": "🧮 «غوغل» تكشف «كوغنتيك».. ذكاء اصطناعي يكتب ست أوراق رياضيات كاملة في يوم واحد!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1363,
    "slug": "article-1363",
