@@ -1,7 +1,107 @@
 {
- "count": 1353,
- "generated": "2026-11-25T23:54:48.213113Z",
+ "count": 1363,
+ "generated": "2026-11-26T18:18:04.801129Z",
  "articles": [
+  {
+   "id": 1363,
+   "slug": "article-1363",
+   "title": "🎙️ «كوين أوديو 3.1» يتكلم 65 لغة.. تحديث صوتي ضخم من «علي بابا»!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1362,
+   "slug": "article-1362",
+   "title": "🛒 «أمازون» و«ميتا» تتفاوضان لإعادة «ميوز» إلى متجر أمازون.. قبل «الجمعة السوداء»!",
+   "date": "2026-11-26",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1361,
+   "slug": "article-1361",
+   "title": "⚖️ أستراليا تقرّ «واجب العناية الرقمي».. غرامات تصل إلى 5% من إيرادات شركات التقنية العالمية!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1360,
+   "slug": "article-1360",
+   "title": "🔒 «أوبن إيه آي» تختبر «الاستدلال الخاص».. ذكاء اصطناعي لا يرى بيانات شركتك حتى أثناء معالجتها!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1359,
+   "slug": "article-1359",
+   "title": "💬 «تشات جي بي تي» يوحّد عداد الاستخدام.. المحادثة والعمل من رصيد واحد، وكبار المستخدمين قد يصلون للحد أسرع!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1358,
+   "slug": "article-1358",
+   "title": "🤖 «كلود» يعيد بناء واجهة «أنثروبيك» بلغة «راست».. ويوفّر 70% من المعالج دون إيقاف الخدمة!",
+   "date": "2026-11-26",
+   "category": "computing",
+   "category_name": "الحوسبة والبرمجة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1357,
+   "slug": "article-1357",
+   "title": "🔑 152 ألف طلب ذكاء اصطناعي كانت مكشوفة للمهاجم.. و«فالا» تعترف بسرقة مفتاح سحابها الجذري!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1356,
+   "slug": "article-1356",
+   "title": "💻 «إنفيديا» توقف شحنات خوادم الذكاء الاصطناعي إلى أربع دول آسيوية.. والسبب قيود أمريكية جديدة!",
+   "date": "2026-11-26",
+   "category": "companies",
+   "category_name": "الشركات والأعمال",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1355,
+   "slug": "article-1355",
+   "title": "🧠 موافقة أمريكية على أول تجربة محورية لشريحة دماغية.. «نيورالينك» تختبر التحكم بالأفكار لدى مرضى التصلب الجانبي!",
+   "date": "2026-11-26",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1354,
+   "slug": "article-1354",
+   "title": "🛰️ مليون قمر صناعي لمراكز بيانات في الفضاء.. «سبيس إكس» تحصل على موافقة تاريخية!",
+   "date": "2026-11-26",
+   "category": "space",
+   "category_name": "الفضاء",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1353,
    "slug": "article-1353",
