@@ -1,7 +1,107 @@
 {
- "count": 1373,
- "generated": "2026-11-26T18:59:15.464868Z",
+ "count": 1383,
+ "generated": "2026-11-26T21:11:29.725539Z",
  "articles": [
+  {
+   "id": 1383,
+   "slug": "article-1383",
+   "title": "🎬 «برايم فيديو» تعيد إحياء 60 فيلماً ومسلسلاً من «إم جي إم» بجودة HD بمساعدة الذكاء الاصطناعي!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1382,
+   "slug": "article-1382",
+   "title": "🚗 «نيو» تكشف «وورلد مودل 3.0».. قيادة ذاتية بتدخلات أقل 40% وتوزيع يبدأ في ديسمبر!",
+   "date": "2026-11-26",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1381,
+   "slug": "article-1381",
+   "title": "💻 «جيت برينز» تطلق «ميلوم 2.1 إنستركت».. إجابات مباشرة بلا تفكير طويل!",
+   "date": "2026-11-26",
+   "category": "computing",
+   "category_name": "الحوسبة والبرمجة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1380,
+   "slug": "article-1380",
+   "title": "🎭 إعلانات «خلفية مجانية» تسرق حسابات «ميتا» للأعمال.. احذر حملة «سيس 010»!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1379,
+   "slug": "article-1379",
+   "title": "⚽ اختراق «فيفا» قبل المونديال.. جوازات وتأشيرات وعقود في أرشيف مسرّب!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1378,
+   "slug": "article-1378",
+   "title": "🔐 ثغرة يوم الصفر في «إيفانتي».. تجاوز تسجيل الدخول وتنفيذ أوامر بلا حساب!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1377,
+   "slug": "article-1377",
+   "title": "📸 «فيفو» تطلق سلسلة «إكس 500» رسمياً في الهند.. شاشة 2K ومعدل تحديث 144 هرتز!",
+   "date": "2026-11-26",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1376,
+   "slug": "article-1376",
+   "title": "📱 «إتش إم دي» تطلق «رايز» بأقل من 10 آلاف روبية.. ذكاء اصطناعي يتكلم 22 لغة هندية!",
+   "date": "2026-11-26",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1375,
+   "slug": "article-1375",
+   "title": "💬 «ميوز» من «ميتا» يدخل رسائل إنستغرام.. اسأل عن أي منشور داخل المحادثة!",
+   "date": "2026-11-26",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1374,
+   "slug": "article-1374",
+   "title": "👁️ «غوغل» تجلب «الرؤية الموجَّهة» إلى آيفون.. «جيميناي لايف» يرى ما تراه كاميرتك!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1373,
    "slug": "article-1373",
