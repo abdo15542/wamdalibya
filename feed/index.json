@@ -1,7 +1,197 @@
 {
- "count": 1383,
- "generated": "2026-11-26T21:11:29.725539Z",
+ "count": 1402,
+ "generated": "2026-11-27T21:36:29.818220Z",
  "articles": [
+  {
+   "id": 1402,
+   "slug": "article-1402",
+   "title": "🇯🇵 اليابان تطلق «رؤية الذكاء الاصطناعي للدفاع».. الإنسان صاحب القرار الأخير!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1401,
+   "slug": "article-1401",
+   "title": "🤖 «سنس تايم» تطلق روبوتاً يتعلم في المحاكاة وينجح في الواقع.. 9 من 10 محاولات!",
+   "date": "2026-11-27",
+   "category": "science",
+   "category_name": "العلوم والابتكار",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1400,
+   "slug": "article-1400",
+   "title": "🎖️ بولندا توقّع مع «بالانتير» صفقة 300 مليون دولار.. ذكاء اصطناعي يقود قرارات الجيش!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1399,
+   "slug": "article-1399",
+   "title": "⌚ «تشات جي بي تي هيلث» يصل إلى أندرويد.. ساعتك ولياقتك داخل المحادثة!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1398,
+   "slug": "article-1398",
+   "title": "🔌 «غوغل» تفرض على وكلاء الذكاء الاصطناعي المرور عبر خوادمها.. مهلة حتى فبراير 2027!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1397,
+   "slug": "article-1397",
+   "title": "🛡️ «إكس» تطلق رقابة أبوية أخيراً.. حدود يومية وموافقة على المتابعين!",
+   "date": "2026-11-27",
+   "category": "apps",
+   "category_name": "التطبيقات والمنصات",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1396,
+   "slug": "article-1396",
+   "title": "⚠️ تحذير عاجل: ثغرات خطيرة في «واتساب».. حدّث تطبيقك الآن!",
+   "date": "2026-11-27",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1395,
+   "slug": "article-1395",
+   "title": "🧮 «أوبن إيه آي» تنشر تسع أوراق رياضيات.. ادعاءات بحل مسائل عمرها عقود دون مراجعة!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1394,
+   "slug": "article-1394",
+   "title": "🎙️ «ديب إل» تطلق «أوري 2».. ترجمة صوتية فورية بلا انتظار!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1393,
+   "slug": "article-1393",
+   "title": "🏢 «ساب» تدرس الاستغناء عن 10 آلاف موظف.. إعادة هيكلة كاملة باسم الذكاء الاصطناعي!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-01.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1392,
+   "slug": "article-1392",
+   "title": "📉 مبيعات الهواتف العالمية تهبط 16%.. أندرويد عند أدنى مستوى وآيفون يسجّل رقماً قياسياً!",
+   "date": "2026-11-27",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1391,
+   "slug": "article-1391",
+   "title": "🛡️ «أوبن إيه آي» و«سيسكو» تطلقان «شيروودو».. دروع مؤقتة تحمي «لينكس» دون إيقاف الخدمة!",
+   "date": "2026-11-27",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1390,
+   "slug": "article-1390",
+   "title": "🎵 «كلود دويت» يصل إلى الهند وثلاث دول جديدة.. مساعد ذكاء اصطناعي بنسخة تجريبية!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1389,
+   "slug": "article-1389",
+   "title": "☁️ «سامسونغ» تبني سحابة خاصة لـ«غالاكسي إيه آي».. طلباتك تُعالج بعيداً عن خوادمها العامة!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1388,
+   "slug": "article-1388",
+   "title": "💳 «أوبو» قد تفرض اشتراكاً على مزايا الذكاء الاصطناعي.. رصيد يُشحن مقابل كل استخدام!",
+   "date": "2026-11-27",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1387,
+   "slug": "article-1387",
+   "title": "🕸️ «غوغل» تُسقط «آيبيديا».. شبكة وكلاء عملاقة استولت على ملايين الهواتف والحواسيب!",
+   "date": "2026-11-27",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1386,
+   "slug": "article-1386",
+   "title": "📞 «سامسونغ» تكشف خداع المكالمات بالذكاء الاصطناعي.. تنبيه جديد في «ون يو آي 8»!",
+   "date": "2026-11-27",
+   "category": "phones",
+   "category_name": "الهواتف والأجهزة",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1385,
+   "slug": "article-1385",
+   "title": "🚨 الهند تحذّر: وكلاء ذكاء اصطناعي اخترقوا أنظمة مؤسسات حيّة وتجاوزوا حدود مهامهم!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1384,
+   "slug": "article-1384",
+   "title": "🤖 «غوغل» تحذّر: هجمات سيبرانية ذاتية بالكامل خلال أشهر.. وكلاء الذكاء الاصطناعي يهاجمون وحدهم!",
+   "date": "2026-11-27",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1383,
    "slug": "article-1383",
