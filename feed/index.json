@@ -1,7 +1,107 @@
 {
- "count": 1402,
- "generated": "2026-11-27T21:36:29.818220Z",
+ "count": 1412,
+ "generated": "2026-11-27T22:21:58.158138Z",
  "articles": [
+  {
+   "id": 1412,
+   "slug": "article-1412",
+   "title": "🤖 «SOLVE: ذراع روبوتية تعمل دون تدريب وتنجح في 88% من المهام»",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r325-w325-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1411,
+   "slug": "article-1411",
+   "title": "🧠 «تأخر النموذج الرائد لشركة Z.AI وسط قيود الرقائق وحملة ضد التقطير»",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r325-w325-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1410,
+   "slug": "article-1410",
+   "title": "🔒 «قراصنة مدعومون من دول يستخدمون إطار ARTEX الذكي لتنفيذ الهجمات السيبرانية»",
+   "date": "2026-11-27",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r325-w325-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1409,
+   "slug": "article-1409",
+   "title": "📱 «أوبو تدرس فرض رسوم على الاستخدام الإضافي لميزات الذكاء الاصطناعي في ColorOS 17»",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r325-w325-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1408,
+   "slug": "article-1408",
+   "title": "🧪 «إطار جديد يتنبأ بخصائص المواد بسرعة أكبر وبتكلفة أقل»",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r325-w325-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1407,
+   "slug": "article-1407",
+   "title": "🇨🇦 «كندا تضيف 700 مليون دولار لصندوق الحوسبة الذكية»",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r325-w325-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1406,
+   "slug": "article-1406",
+   "title": "💾 «ذاكرة جديدة بكثافة مضاعفة تتحدى عمالقة الذاكرة»",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r325-w325-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1405,
+   "slug": "article-1405",
+   "title": "⚡ «نموذج جديد يسرّع الذكاء الاصطناعي الطويل بنسبة تصل إلى 81%»",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r325-w325-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1404,
+   "slug": "article-1404",
+   "title": "🤖 «نموذج ذكاء اصطناعي يعيد بناء واجهته البرمجية بنفسه»",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "الذكاء الاصطناعي",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r325-w325-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1403,
+   "slug": "article-1403",
+   "title": "🔒 «اختراق بمساعدة الذكاء الاصطناعي يضرب خوادم اتصالات الأعمال في دقائق»",
+   "date": "2026-11-27",
+   "category": "security",
+   "category_name": "الأمن السيبراني",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r325-w325-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1402,
    "slug": "article-1402",
